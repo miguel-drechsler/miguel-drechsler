@@ -8,7 +8,7 @@
 
 ## 🚀 Quem Sou Eu
 
-Sou um desenvolvedor em formação apaixonado por criar soluções inovadoras através da programação. Meu objetivo é dominar os fundamentos da computação e impactar o mundo através da tecnologia.
+Me chamo Miguel Drechsler e sou um estudante do 1º período de Ciência da Computação na CESAR SCHOOL, sempre em busca de aprender cada vez mais e poder aplicar minhas habilidades pelo mundo.
 
 > *"A tecnologia move o mundo. A inovação transforma o futuro. Eu quero fazer parte dessa jornada."* 🎯
 
@@ -24,33 +24,6 @@ Sou um desenvolvedor em formação apaixonado por criar soluções inovadoras at
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  
-</div>
-
----
-
-## 🎯 O que Estou Fazendo
-
-<div align="center">
-  
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://media.giphy.com/media/3o7TKCKzIIVYmBbKKQ/giphy.gif" width="80px" alt="Codando">
-        <br/>
-        <b>🔭 Trabalhando em</b><br/>
-        Projetos de classe & Exercícios<br/>
-        <sub>Construindo uma base sólida</sub>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://media.giphy.com/media/l3q2K6AIJUapQqW1i/giphy.gif" width="80px" alt="Aprendendo">
-        <br/>
-        <b>🌱 Aprendendo</b><br/>
-        Fundamentos Sólidos<br/>
-        <sub>Dominar o essencial</sub>
-      </td>
-    </tr>
-  </table>
   
 </div>
 
