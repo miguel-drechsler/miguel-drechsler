@@ -94,13 +94,15 @@ Sou um desenvolvedor em formação apaixonado por criar soluções inovadoras at
 ---
 
 <div align="center">
-  
-  <img src="https://media.giphy.com/media/dxn6SEP66IR3EA1StH/giphy.gif" width="100px" alt="Celebração">
-  
-  ⭐ **Obrigado por visitar!** ⭐
-  
-  *Feito com ❤️ e determinação* 🚀
-  
-  **"A jornada de mil milhas começa com um único commit!"** 💻
-  
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/carlosvinicius0293-droid/carlosvinicius0293-droid/pacman-output/dist/pacman-contribution-graph-dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/carlosvinicius0293-droid/carlosvinicius0293-droid/pacman-output/dist/pacman-contribution-graph.svg">
+    <img
+      alt="Pacman contribution graph"
+      src="https://raw.githubusercontent.com/carlosvinicius0293-droid/carlosvinicius0293-droid/pacman-output/dist/pacman-contribution-graph-dark.svg">
+  </picture>
 </div>
