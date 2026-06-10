@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Explorador+de+Ideias+Inovadoras;Sempre+Aprendendo+e+Evoluindo)](https://github.com/miguel-drechsler)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+Formação;Apaixonado+por+Programação;Estudante+do+1º+Período)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,25 +10,45 @@
 
 ## 🎯 Sobre Mim
 
-```
-💻 Codando com paixão
-🚀 Transformando ideias em realidade
-📚 Aprendendo algo novo todo dia
-🎨 Criatividade + Lógica = Magia
-```
+<div align="center">
+  
+  ```
+  💻 Começando minha jornada na programação
+  🚀 Transformando ideias em código
+  📚 Aprendendo algo novo todo dia
+  🎓 Estudante de Engenharia de Software
+  ```
+  
+</div>
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Stack Tecnológico (1º Período)
 
 <div align="center">
   
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  
+</div>
+
+---
+
+## 📚 Disciplinas em Andamento
+
+<div align="center">
+  
+  | 📖 Matéria | 📊 Status |
+  |:---:|:---:|
+  | **Lógica de Programação** | ✅ Aprendendo |
+  | **Algoritmos** | ✅ Aprendendo |
+  | **Estrutura de Dados** | ✅ Aprendendo |
+  | **Web Básico** | ✅ Aprendendo |
   
 </div>
 
@@ -38,11 +58,30 @@
 
 <div align="center">
   
-  🔭 **Trabalhando em:** Projetos incríveis que vão mudar o mundo  
-  🌱 **Aprendendo:** Novas tecnologias e melhores práticas  
-  💡 **Focado em:** Criar soluções elegantes e eficientes  
+  <img src="https://media.giphy.com/media/QTfYxmDVIKAjOU1YNJ/giphy.gif" width="180px" alt="Codando">
   
-  ⚡ *"O código é poesia escrita para máquinas entenderem"*
+  🔭 **Trabalhando em:** Projetos de classe e exercícios práticos  
+  🌱 **Aprendendo:** Fundamentos de programação  
+  💡 **Focado em:** Construir uma base sólida  
+  
+  > *"O conhecimento é a melhor ferramenta que um programador pode ter"* 
+  
+</div>
+
+---
+
+## 💪 Meus Objetivos
+
+<div align="center">
+  
+  <img src="https://media.giphy.com/media/l3q2K6AIJUapQqW1i/giphy.gif" width="150px" alt="Objetivo">
+  
+  ```
+  ✨ Dominar Lógica de Programação
+  🎯 Criar projetos Web interessantes
+  🔧 Entender Estrutura de Dados
+  🌟 Contribuir em Projetos Open Source
+  ```
   
 </div>
 
@@ -60,23 +99,21 @@
 
 ---
 
-## 🎨 Animações Visuais
+## 🎨 Ferramentas que Uso
 
 <div align="center">
   
-  <img src="https://media.giphy.com/media/QTfYxmDVIKAjOU1YNJ/giphy.gif" width="200px" alt="Programação em ação">
+  <img src="https://media.giphy.com/media/QTfYxmDVIKAjOU1YNJ/giphy.gif" width="100px" alt="VS Code">
+  <img src="https://media.giphy.com/media/WcKlfXCMWbmV2/giphy.gif" width="100px" alt="Terminal">
+  <img src="https://media.giphy.com/media/YsYylFZwpzxAHMYqDC/giphy.gif" width="100px" alt="GitHub">
   
-  <p>
-    <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="150px" alt="Dev Code">
-    <img src="https://media.giphy.com/media/WcKlfXCMWbmV2/giphy.gif" width="150px" alt="Matrix">
-    <img src="https://media.giphy.com/media/YsYylFZwpzxAHMYqDC/giphy.gif" width="150px" alt="Rocket">
-  </p>
+  **VS Code** • **Git** • **Chrome DevTools** • **Terminal**
   
 </div>
 
 ---
 
-## 🌐 Conecte-se Comigo
+## 🌐 Vamos nos Conectar?
 
 <div align="center">
   
@@ -90,10 +127,12 @@
 
 <div align="center">
   
+  <img src="https://media.giphy.com/media/dxn6SEP66IR3EA1StH/giphy.gif" width="100px" alt="Celebração">
+  
   ⭐ **Obrigado por visitar meu perfil!** ⭐
   
-  <img src="https://media.giphy.com/media/dxn6SEP66IR3EA1StH/giphy.gif" width="100px" alt="Celebrate">
+  *Feito com ❤️ e determinação* 🚀
   
-  *Feito com ❤️ e muita criatividade*
+  **"A jornada de mil linhas de código começa com um único hello world"**
   
 </div>
