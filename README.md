@@ -8,7 +8,7 @@
 
 ## 🚀 Quem Sou Eu
 
-Me chamo Miguel Drechsler e sou um estudante do 1º período de Ciência da Computação na CESAR SCHOOL, sempre em busca de aprender cada vez mais e poder aplicar minhas habilidades pelo mundo.
+Olá! Me chamo Miguel Drechsler sou um estudante do 1º período de Ciência da Computação na CESAR SCHOOL e estou sempre em busca de aprender cada vez mais e poder aplicar minhas habilidades pelo mundo. Gosto muito de jogar, aprender coisas novas na área de tecnologia e daquele café que não pode faltar.
 
 > *"A tecnologia move o mundo. A inovação transforma o futuro. Eu quero fazer parte dessa jornada."* 🎯
 
