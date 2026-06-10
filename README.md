@@ -2,7 +2,8 @@
 
 <div align="center">
   
-  ![Workspace Hacker](https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=400&fit=crop)
+  ![Workspace Hacker](<img width="1536" height="1024" alt="ChatGPT Image 10 de jun  de 2026, 12_29_47" src="https://github.com/user-attachments/assets/27b89881-c8f2-4800-9962-47c6e8494633" />
+)
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+Formação;Transformando+Ideias+em+Código;Apaixonado+por+Inovação" alt="Typing">
   
