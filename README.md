@@ -2,9 +2,19 @@
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+em+Formação;Transformando+Ideias+em+Código;Aprendendo+Algo+Novo+Todo+Dia" alt="Typing animation">
+  ![Workspace Hacker](https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=400&fit=crop)
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+Formação;Transformando+Ideias+em+Código;Apaixonado+por+Inovação" alt="Typing">
   
 </div>
+
+---
+
+## 🚀 Quem Sou Eu
+
+Sou um desenvolvedor em formação apaixonado por criar soluções inovadoras através da programação. Meu objetivo é dominar os fundamentos da computação e impactar o mundo através da tecnologia.
+
+> *"A tecnologia move o mundo. A inovação transforma o futuro. Eu quero fazer parte dessa jornada."* 🎯
 
 ---
 
@@ -33,13 +43,15 @@
         <img src="https://media.giphy.com/media/3o7TKCKzIIVYmBbKKQ/giphy.gif" width="80px" alt="Codando">
         <br/>
         <b>🔭 Trabalhando em</b><br/>
-        Projetos de classe & Exercícios
+        Projetos de classe & Exercícios<br/>
+        <sub>Construindo uma base sólida</sub>
       </td>
       <td align="center" width="50%">
         <img src="https://media.giphy.com/media/l3q2K6AIJUapQqW1i/giphy.gif" width="80px" alt="Aprendendo">
         <br/>
         <b>🌱 Aprendendo</b><br/>
-        Fundamentos Sólidos
+        Fundamentos Sólidos<br/>
+        <sub>Dominar o essencial</sub>
       </td>
     </tr>
   </table>
@@ -52,10 +64,26 @@
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miguel-drechsler&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0d1117)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miguel-drechsler&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-drechsler&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-drechsler&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&text_color=ffffff)
   
+</div>
+
+---
+
+## 🎓 Competências Principais
+
+<div align="center">
+
+| 🔧 | Competência |
+|---|---|
+| 💡 | **Lógica de Programação** |
+| 🧮 | **Algoritmos e Estruturas de Dados** |
+| 🌐 | **Desenvolvimento Web (Frontend)** |
+| 🔀 | **Controle de Versão com Git** |
+| 🛠️ | **Problem Solving** |
+
 </div>
 
 ---
@@ -72,6 +100,15 @@
 
 ---
 
+## 💪 Meu Compromisso
+
+- ✅ Aprender algo novo todos os dias
+- ✅ Praticar código regularmente
+- ✅ Contribuir para projetos
+- ✅ Documentar minha jornada
+
+---
+
 <div align="center">
   
   <img src="https://media.giphy.com/media/dxn6SEP66IR3EA1StH/giphy.gif" width="100px" alt="Celebração">
@@ -79,5 +116,7 @@
   ⭐ **Obrigado por visitar!** ⭐
   
   *Feito com ❤️ e determinação* 🚀
+  
+  **"A jornada de mil milhas começa com um único commit!"** 💻
   
 </div>
