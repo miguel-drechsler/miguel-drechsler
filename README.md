@@ -60,18 +60,6 @@ Sou um desenvolvedor em formação apaixonado por criar soluções inovadoras at
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miguel-drechsler&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-drechsler&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&text_color=ffffff)
-  
-</div>
-
----
-
 ## 🎓 Competências Principais
 
 <div align="center">
