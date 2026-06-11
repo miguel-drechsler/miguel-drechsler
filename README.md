@@ -1,6 +1,6 @@
 <div align="center">
   
-<img width="1536" height="1024" alt="ChatGPT Image 10 de jun  de 2026, 12_29_47" src="https://github.com/user-attachments/assets/4e39fcc8-3f6d-4038-a732-a30961c0fb05" />
+<img width="1200" height="800" alt="ChatGPT Image 10 de jun  de 2026, 12_29_47" src="https://github.com/user-attachments/assets/4e39fcc8-3f6d-4038-a732-a30961c0fb05" />
 
 </div>
 
@@ -50,7 +50,6 @@ Olá! Eu sou Miguel Drechsler, um estudante do 1º período de Ciência da Compu
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miguel-drechsler)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miguel-drechsler)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguel.drechsler@gmail.com)
   
 </div>
