@@ -1,14 +1,18 @@
 <div align="center">
   
-<img width="1000" height="600" alt="ChatGPT Image 10 de jun  de 2026, 12_29_47" src="https://github.com/user-attachments/assets/4e39fcc8-3f6d-4038-a732-a30961c0fb05" />
+<img width="1200" height="800" alt="ChatGPT Image 10 de jun  de 2026, 12_29_47" src="https://github.com/user-attachments/assets/4e39fcc8-3f6d-4038-a732-a30961c0fb05" />
 
 </div>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=00FF00&center=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;Olá,+eu+sou+Miguel+Drechsler;Bem-vindo+a+minha+jornada+tech+🚀" alt="Typing SVG" />
+</h1>
 
 ---
 
 ## 🚀 Quem Sou Eu
 
-Olá! Eu sou Miguel Drechsler, um estudante do 1º período de Ciência da Computação na CESAR School! Estou sempre em busca de aprender cada vez mais e poder aplicar minhas habilidades pelo mundo. Gosto muito de jogar, aprender coisas novas na área de tecnologia e daquele café que não pode faltar.
+Olá! Eu sou Miguel Drechsler, um estudante do 1º período de Ciência da Computação na CESAR School! Estou sempre em busca de aprender cada vez mais e poder aplicar minhas habilidades pelo mundo. [...]
 
 > *"A tecnologia move o mundo. A inovação transforma o futuro. Eu quero fazer parte dessa jornada."* 🎯
 
