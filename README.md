@@ -1,11 +1,11 @@
 <div align="center">
   
-<img width="1200" height="800" alt="ChatGPT Image 10 de jun  de 2026, 12_29_47" src="https://github.com/user-attachments/assets/4e39fcc8-3f6d-4038-a732-a30961c0fb05" />
+<img width="900" height="450" alt="ChatGPT Image 10 de jun  de 2026, 12_29_47" src="https://github.com/user-attachments/assets/4e39fcc8-3f6d-4038-a732-a30961c0fb05" />
 
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=500&color=00FF00&center=true&width=700&lines=Bem-vindo+ao+meu+GitHub!;Olá,+eu+sou+Miguel+Drechsler;Estudante+de+Ciência+da+Computação;Apaixonado+por+Tecnologia+e+Inovação" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=500&color=00FF00&center=true&width=800&lines=Bem-vindo+ao+meu+GitHub!;Ol%C3%A1,+eu+sou+Miguel+Drechsler;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Apaixonado+por+Tecnologia+e+Inova%C3%A7%C3%A3o" alt="Typing SVG" />
 </h1>
 
 ---
