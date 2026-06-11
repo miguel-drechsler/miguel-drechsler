@@ -5,14 +5,16 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=00FF00&center=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;Olá,+eu+sou+Miguel+Drechsler;Bem-vindo+a+minha+jornada+tech+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=500&color=00FF00&center=true&width=700&lines=Bem-vindo+ao+meu+GitHub!;Olá,+eu+sou+Miguel+Drechsler;Estudante+de+Ciência+da+Computação;Apaixonado+por+Tecnologia+e+Inovação" alt="Typing SVG" />
 </h1>
 
 ---
 
 ## 🚀 Quem Sou Eu
 
-Olá! Eu sou Miguel Drechsler, um estudante do 1º período de Ciência da Computação na CESAR School! Estou sempre em busca de aprender cada vez mais e poder aplicar minhas habilidades pelo mundo. [...]
+Olá! Eu sou **Miguel Drechsler**, um estudante do 1º período de Ciência da Computação na **CESAR School**! 🎓 Estou sempre em busca de aprender cada vez mais e poder aplicar minhas habilidades pelo mundo. 
+
+Sou apaixonado por resolver problemas através da programação e estou constantemente explorando novas tecnologias e desafios.
 
 > *"A tecnologia move o mundo. A inovação transforma o futuro. Eu quero fazer parte dessa jornada."* 🎯
 
